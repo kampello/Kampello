@@ -22,7 +22,6 @@
 
 ###
 
-<img align="right" height="182" src="https://c.tenor.com/ZOfq5Jc-PYgAAAAd/tenor.gif"  />
 
 ###
 
