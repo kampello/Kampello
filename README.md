@@ -1,43 +1,51 @@
-<h2 align="left">Hi 👋! willkommen</h2>
-###
+<h2 align="center">Hi 👋! Eu sou o Paulo Paulino (kampello)</h2>
+
+<p align="center">
+  <b>IT & Software Developer @ Junta de Freguesia de Quarteira 🏛️</b><br>
+  <i>Transformando processos públicos em soluções digitais e criando mundos nos tempos livres.</i>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kampello&theme=dark&show_icons=true&count_private=true" height="150">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kampello&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" height="150">
+</p>
+
+---
+
+### 🛠️ Minha Stack Tecnológica
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" title="JavaScript" />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" title="PHP" />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" title="Python" />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" title="C" />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" title="Java" />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" title="HTML5" />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/GLPI-💡-orange?style=for-the-badge" height="25" />
 </div>
 
-###
+### 🚀 Sobre Mim
 
-<p align="left">🎮 Web Game Developer <br>💻 C Programmer | Learning Python<br>🚀 Passionate about creating interactive web games and exploring new programming languages. Always striving to learn and grow!<br><br>🛠️ Tech Stack:<br><br>Languages: JavaScript, C, Python(currently learning),JAVA.PHP<br><br>Game Engines: Godot & Construct2/3<br>Focus: Web game development and innovative mechanics<br><br>🌱 Exploring new project ideas and collaborating to build immersive gaming experiences.</p>
+* **🏛️ Atualidade:** Atuo no setor de IT da **Junta de Freguesia de Quarteira**, desenvolvendo ferramentas e plugins (como para o **GLPI**) para otimizar o serviço público.
+* **🎮 Game Dev:** Especialista em jogos web com **Construct 2/3** e migrando para **Godot**. Apaixonado por mecânicas inovadoras.
+* **📚 Aprendizado:** Atualmente aprofundando em **Python** para automação e análise de dados.
 
-###
-<table align="center">
-<tbody><tr border="none">
-<td width="50%" align="center">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=kampello&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
-  <br><br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kampello&amp;theme=dark&amp;hide_border=false"> 
-</td><td width="50%" align="center">
-  <img align="middle" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kampello&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
-  </td>
-</tr>
-</tbody></table>
+### 📊 Estatísticas
+<p align="left">
+  <img title="🔥 Streak Stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kampello&theme=dark&hide_border=false"> 
+</p>
 
-###
->
-###
+---
 
-<br clear="both">
-
-
-###
+<p align="center">
+  <a href="https://github.com/kampello">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
