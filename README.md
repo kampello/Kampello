@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>IT & Software Developer @ Junta de Freguesia de Quarteira 🏛️</b><br>
-  <i>Especialista em soluções Open Source e automação de processos públicos.</i>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering;Maintaining+Open+Source+Systems;&center=true&width=500&height=50&color=2ea44f&vCenter=true&size=22">
 </p>
 
 ---
