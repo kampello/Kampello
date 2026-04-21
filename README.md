@@ -30,7 +30,7 @@
 
 * **🌐 Open Source & GLPI:** Focado no desenvolvimento e customização de ferramentas **Open Source**. Atualmente aprimorando o ecossistema do **GLPI** através de plugins e integrações para otimizar a gestão de TI e o atendimento público.
 * **🏛️ Setor Público:** Desenvolvedor na **Junta de Freguesia de Quarteira**, focado em modernização administrativa e software livre.
-* **🎮 Game Dev (Lado B):** Criador de jogos web com **Construct 2/3** e entusiasta de **Godot**. Gosto de aplicar lógica de jogos em interfaces interativas.
+* **🎮 Game Dev:** Criador de jogos web com **Construct 2/3** e entusiasta de **Godot**. Gosto de aplicar lógica de jogos em interfaces interativas.
 * **📚 Learning:** Aprofundando em **Python** para automação de tarefas de infraestrutura e análise de dados.
 
 ---
