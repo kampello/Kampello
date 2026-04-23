@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! Eu sou o Paulo (campello) Paulino</h2>
+<h2 align="center">Hi 👋! Eu sou o Paulo (campelo) Paulino</h2>
 
 <p align="center">
   <b>IT & Software Developer @ Junta de Freguesia de Quarteira 🏛️</b><br>
